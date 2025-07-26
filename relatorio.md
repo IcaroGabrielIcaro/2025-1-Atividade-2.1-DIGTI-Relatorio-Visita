@@ -30,3 +30,10 @@ Esses setores, juntos, são responsáveis por atividades como manutenção da in
 O SUAP (Sistema Unificado de Administração Pública) é um sistema desenvolvido por uma instituição pública para atender outras instituições públicas. Ele reúne módulos administrativos e acadêmicos, permitindo seu desenvolvimento e expansão. Na visita, foi explicado como a infraestrutura da DIGTI dá suporte ao SUAP, que é utilizado na maioria dos institutos do IFRN.
 
 ---
+
+## **3. Aprendizados e Destaques**
+Durante a visita à DIGTI, foi possível entender melhor como os conteúdos da disciplina de Sistemas Operacionais são aplicados na prática. Um dos principais aprendizados foi conhecer a estrutura do SUAP, um sistema monolítico, mas dividido em módulos, que atende milhares de usuários em diferentes áreas. A equipe explicou que o SUAP está passando por uma migração gradual para a nuvem usando a AWS, com o objetivo de melhorar o desempenho e a escalabilidade. Também foram apresentadas tecnologias utilizadas no sistema, como Django (framework da aplicação), Docker (isolamento de ambientes) e PostgreSQL (banco de dados), todas já vistas ou estudadas na disciplina.
+
+Além disso, foi possível observar como conceitos como gerenciamento de processos, escalonamento de tarefas, comunicação entre sistemas e controle de acesso são importantes no dia a dia do setor. Ferramentas como o Zabbix, usadas para monitoramento e resposta rápida a falhas, reforçaram a importância da estabilidade e disponibilidade dos sistemas. A equipe também destacou como um dos maiores desafios é manter o sistema funcionando bem com recursos limitados, já que atender a uma grande quantidade de usuários exige decisões técnicas bem planejadas. A visita mostrou, de forma clara, como a teoria vista em sala se conecta com o trabalho real em ambientes complexos de TI.
+
+---
