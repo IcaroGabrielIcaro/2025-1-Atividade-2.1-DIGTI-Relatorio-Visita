@@ -18,14 +18,11 @@ Características do departamento de TI:
 
 ### **Equipe:** 
 A equipe da DIGTI é dividida em setores com funções específicas:
-  - Gestão da Segurança da Informação:
-    - Cuida da proteção dos dados institucionais, aplica a POSIC e segue normas como a LGPD.
+  - **Segurança da Informação:** cuida da proteção dos dados institucionais, aplica a POSIC e segue normas como a LGPD.
 
-  - Governança em TIC:
-    - Faz o planejamento estratégico da área de TI, garantindo conformidade, transparência e integridade.
+  - **Planejamento e Gestão:** organiza as ações estratégicas da área de TI com foco em regras, transparência e eficiência.
 
-  - Gestão de Serviços de TIC:
-    - Organiza os serviços oferecidos, coordena o suporte técnico e busca melhorias no atendimento.
+  - **Atendimento e Suporte:** gerencia os serviços oferecidos, coordena o suporte técnico e busca melhorar os atendimentos.
 
 Esses setores, juntos, são responsáveis por atividades como manutenção da infraestrutura de TI, instalação e suporte de equipamentos e sistemas, atendimento aos usuários, capacitação e implantação de novos sistemas.
 
