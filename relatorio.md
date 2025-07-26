@@ -32,8 +32,15 @@ O SUAP (Sistema Unificado de Administração Pública) é um sistema desenvolvid
 ---
 
 ## **3. Aprendizados e Destaques**
-Durante a visita à DIGTI, foi possível entender melhor como os conteúdos da disciplina de Sistemas Operacionais são aplicados na prática. Um dos principais aprendizados foi conhecer a estrutura do SUAP, um sistema monolítico, mas dividido em módulos, que atende milhares de usuários em diferentes áreas. A equipe explicou que o SUAP está passando por uma migração gradual para a nuvem usando a AWS, com o objetivo de melhorar o desempenho e a escalabilidade. Também foram apresentadas tecnologias utilizadas no sistema, como Django (framework da aplicação), Docker (isolamento de ambientes) e PostgreSQL (banco de dados), todas já vistas ou estudadas na disciplina.
+Durante a visita, foi possível entender melhor como os conteúdos da disciplina de Sistemas Operacionais são aplicados na prática. Um dos principais aprendizados foi conhecer a estrutura do SUAP, um sistema monolítico, mas dividido em módulos, que atende milhares de usuários em diferentes áreas. A equipe explicou que o SUAP está passando por uma migração gradual para a nuvem usando a AWS, com o objetivo de melhorar o desempenho e a escalabilidade. Também foram apresentadas tecnologias utilizadas no sistema, como Django (framework da aplicação), Docker (isolamento de ambientes) e PostgreSQL (banco de dados), todas já vistas ou estudadas na disciplina.
 
 Além disso, foi possível observar como conceitos como gerenciamento de processos, escalonamento de tarefas, comunicação entre sistemas e controle de acesso são importantes no dia a dia do setor. Ferramentas como o Zabbix, usadas para monitoramento e resposta rápida a falhas, reforçaram a importância da estabilidade e disponibilidade dos sistemas. A equipe também destacou como um dos maiores desafios é manter o sistema funcionando bem com recursos limitados, já que atender a uma grande quantidade de usuários exige decisões técnicas bem planejadas. A visita mostrou, de forma clara, como a teoria vista em sala se conecta com o trabalho real em ambientes complexos de TI.
+
+---
+
+## **4. Considerações Finais**
+A visita à DIGTI foi uma experiência muito enriquecedora, pois permitiu observar como os conteúdos vistos na disciplina de Sistemas Operacionais são aplicados na prática dentro de uma grande instituição pública. Além disso, foi inspirador saber que parte da equipe técnica é formada por ex-alunos do curso de TADS, o que reforça a qualidade da formação que estamos recebendo e nos motiva a seguir com confiança na área de TI.
+
+Foi possível entender melhor os desafios enfrentados pela equipe na manutenção de um sistema de grande porte como o SUAP, e como a estrutura tecnológica e os processos de gestão são fundamentais para garantir o funcionamento da instituição. Um ponto que teria sido interessante ver de forma mais aprofundada seria o código-fonte da aplicação em Django. Seria muito valioso compreender como o sistema é estruturado internamente, como as tarefas são organizadas e como certas funcionalidades são implementadas, principalmente para quem já está tendo contato com essa tecnologia e reconhece sua complexidade.
 
 ---
